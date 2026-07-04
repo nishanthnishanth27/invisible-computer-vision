@@ -2,7 +2,7 @@
 
 A real-time computer vision project built with Python, OpenCV, and MediaPipe.
 
-**Developer:** tubakhxn
+**Developer:** nishanth kn
 
 ---
 
@@ -66,4 +66,3 @@ python main.py 1
 - OpenCV
 - MediaPipe (Selfie Segmentation + Hands)
 - NumPy
-- 
