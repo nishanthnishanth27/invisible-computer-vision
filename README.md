@@ -2,7 +2,7 @@
 
 A real-time computer vision project built with Python, OpenCV, and Mediapipe
 
-**Developer:** nishanth kn
+**Developer:** NISHANTH KN
 
 ---
 
