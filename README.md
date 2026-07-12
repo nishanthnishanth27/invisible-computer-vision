@@ -1,6 +1,6 @@
 # Ghost / Invisibility Mode
 
-A real-time computer vision project built with Python, OpenCV, and MediaPipe.
+A real-time computer vision project built with Python, OpenCV, and Mediapipe
 
 **Developer:** nishanth kn
 
